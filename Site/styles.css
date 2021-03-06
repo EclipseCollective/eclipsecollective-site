@@ -3,7 +3,7 @@ body {
 	font-size: 80%;
 	margin: 0;
 	padding: 0;
-	background-color: black;
+	background: url('eclp-site-bckgr.png');
 	
 }
 .table { 
